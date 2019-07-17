@@ -10,9 +10,9 @@
 ## 更多
 具体代码逻辑可以参考[https://www.bwgyhw.cn/bandwagonhost-how-to-get-latest-promo-codes/][2]
 
-最新优惠力度最高搬瓦工优惠码总结参考[https://www.bwgyhw.cn/bandwagonhost-lastest-promo/][3]
+2019年搬瓦工最新优惠码已经更新，最新优惠力度最高搬瓦工优惠码总结参考[https://www.bwgyhw.cn/bandwagonhost-lastest-promo/][3]
 
 
   [1]: https://www.bwgyhw.cn
-  [2]: https://www.bwgyhw.con/bandwagonhost-how-to-get-latest-promo-codes/
-  [3]: https://www.bwgyhw.con/bandwagonhost-lastest-promo/
+  [2]: https://www.bwgyhw.cn/bandwagonhost-how-to-get-latest-promo-codes/
+  [3]: https://www.bwgyhw.cn/bandwagonhost-lastest-promo/

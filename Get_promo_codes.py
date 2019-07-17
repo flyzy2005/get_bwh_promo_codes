@@ -9,7 +9,7 @@ import time
 
 import requests
 
-BWH_PROMO_CODE_URL = 'https://bwh1.net/cart.php?a=add&pid=15'
+BWH_PROMO_CODE_URL = 'https://bwh1.net/cart.php?a=add&pid=90'
 BWH_CHECK_DISCOUNT_URL = 'https://bwh1.net/cart.php?a=view'
 CODES = []
 

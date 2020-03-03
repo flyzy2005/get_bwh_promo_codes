@@ -8,9 +8,10 @@
  2. 在购买页面测出这个优惠码的优惠力度
  
 ## 更多
-具体代码逻辑可以参考[https://www.bwgyhw.cn/bandwagonhost-how-to-get-latest-promo-codes/][2]
 
-2019年搬瓦工最新优惠码已经更新，最新优惠力度最高搬瓦工优惠码总结参考[https://www.bwgyhw.cn/bandwagonhost-lastest-promo/][3]
+- 搬瓦工优惠码怎么被发现的？可以参考这篇文章：[搬瓦工优惠码怎么来的](https://www.bwgyhw.cn/how-to-find-bandwagonhost-lastest-coupon/)
+- 自动获取优惠码脚本逻辑可以参考这篇文章：[如何用脚本自动获取搬瓦工最新优惠码][2]
+- 2020年搬瓦工最新优惠码已经更新，最新优惠力度最高搬瓦工优惠码总结参考：[最新搬瓦工优惠码][3]
 
 
   [1]: https://www.bwgyhw.cn
